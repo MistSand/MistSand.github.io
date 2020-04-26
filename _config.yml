@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-weibo_username:     无
+# weibo_username:     无
 zhihu_username:     mist
 github_username:    MistSand
-facebook_username:  无
-jianshu_username:   无
-twitter_username:   无
+# facebook_username:  无
+# jianshu_username:   无
+# twitter_username:   无
 
 
 
